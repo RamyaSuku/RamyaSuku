@@ -29,4 +29,4 @@ s = Bank_Account()
 # Calling functions with that class object
 s.deposit()
 s.withdraw()
-s.display()
+s.display(
